@@ -1,1 +1,1 @@
-This repository aims to implement MAML on superresolution . 
+This repository aims to implement MAML on SR
