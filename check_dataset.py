@@ -20,4 +20,4 @@ for class_name in classes:
         if img.lower().endswith((".jpg", ".jpeg", ".png"))
     ]
 
-    print(f"{class_name:<25} {len(images)} images")
+    
